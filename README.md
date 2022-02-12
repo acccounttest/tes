@@ -1,5 +1,5 @@
 
-1. # - [URLS](#URLS) should be minized and separated by -
+1. # - [URLS](#URLS)
  [nameit]: #--urls
 
 
