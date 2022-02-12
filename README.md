@@ -1,6 +1,7 @@
 
-# [URLS ARE GOOD](#URLS-ARE-GOOD-1)
-[URLS ARE GOOD]: #urls-are-good
+
+# [URLS ARE GOOD.](#URLS-ARE-GOOD-1)
+[urls-are-good]: #urls-are-good
  - aa
  - bb
  - cc
@@ -385,6 +386,6 @@ df
 fddf
 df
 
-# URLS ARE GOOD 
-[[Return]][URLS ARE GOOD]
 
+# URLS ARE GOOD 
+[[Return]][urls-are-good]
