@@ -1,6 +1,6 @@
 
 # [URLS](#URLS) should be minized and separated by -
-[id/name]: #-urls
+[id/name]: #urls
 
 
 df
