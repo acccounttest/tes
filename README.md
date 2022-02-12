@@ -1,5 +1,5 @@
 
-# [URLS ARE GOOD.](#URLS-ARE-GOOD-1)
+# [URLS ARE GOOD:](#URLS-ARE-GOOD-1)
 [nameit]: #urls-are-good
 
 fddf
@@ -202,5 +202,5 @@ df
 fddf
 df
 
-# URLS ARE GOOD.
+# URLS ARE GOOD:
 [[Return]][nameit]
