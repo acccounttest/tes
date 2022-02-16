@@ -11,8 +11,8 @@
 
 
 
-1. # [URLS ARE GOOD3.](#URLS-ARE-GOOD3--1)
-[URLS ARE GOOD3.]: #--urls-are-good3.
+1. # [URLS ARE GOOD3.](#URLS-ARE-GOOD3-1)
+[URLS ARE GOOD3]: #--urls-are-good3
 
 fddf
 df
@@ -442,5 +442,5 @@ dfdf
 
 
 
-# URLS ARE GOOD3.
-[[Return]][URLS ARE GOOD3.]
+# URLS ARE GOOD3
+[[Return]][URLS ARE GOOD3]
