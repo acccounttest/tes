@@ -1,4 +1,4 @@
-```ahk2
+```autohotkey2
 WinDropDown.OnEvent("Change","PosChoice")
 ```
 
