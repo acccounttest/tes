@@ -1,6 +1,3 @@
-```autohotkey
-WinDropDown.OnEvent("Change","PosChoice")
-```
 
 # - [URLS ARE GOOD.](#URLS-ARE-GOOD-1)
 [urls-are-good]: #urls-are-good
