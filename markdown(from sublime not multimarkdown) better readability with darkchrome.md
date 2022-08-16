@@ -1632,7 +1632,7 @@ paragraph
 |   ^^^^^^^^^^^^^^^^^^ markup.list.unnumbered meta.paragraph.list - markup.raw
 
  1. fenced code block inside a list item
-| ^ punctuation.definition.list_item
+||A____A|| ^ punctuation.definition.list_item
     ```language
 |^^^^^^^^^^^^^^^ meta.paragraph.list
 |   ^^^ punctuation.definition.raw.code-fence.begin
