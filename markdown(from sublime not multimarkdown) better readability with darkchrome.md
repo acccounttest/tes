@@ -1634,6 +1634,7 @@ paragraph
  1. fenced code block inside a list item
 ||A____A|| ^ punctuation.definition.list_item
     ```language
+  o
 |  ```
 |^^^^^^^^^^^^^^^ meta.paragraph.list
 |   ^^^ punctuation.definition.raw.code-fence.begin
