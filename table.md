@@ -15,7 +15,7 @@
 <table><tr><td>
 <pre>
 
-| **Hello** |
+<pre>| **Hello** |</pre>
 ```language
 | ^^^^^^^^^ |
 | ^^^^^^^^^ |
