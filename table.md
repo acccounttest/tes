@@ -1,9 +1,8 @@
 
 <table><tr><td>
 <pre>
-
-```language
 <h1>| **Hello** |</h1>
+```language
 | ^^^^^^^^^ |
 | ^^^^^^^^^ |
 | ^^^^^^^^^ |
