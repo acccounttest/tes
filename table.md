@@ -1,6 +1,6 @@
 <table><tr><td>
 <pre>
-```langage
+```language
 | **Hello** |
 | ^^^^^^^^^ |
 | ^^^^^^^^^ |
